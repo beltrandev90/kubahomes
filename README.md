@@ -1,7 +1,7 @@
 
 # Web Kuba Homes
 
-Kubahomes es una plataforma web que proporciona información detallada para realizar reformas integrales del hogar, así como reformas específicas del baño, la cocina y locales comerciales.
+Kubahomes es una web que proporciona información detallada para realizar reformas integrales del hogar, así como reformas específicas del baño, la cocina y locales comerciales.
 
 
 ## Tecnologías Utilizadas
