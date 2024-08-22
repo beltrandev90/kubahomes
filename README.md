@@ -1,7 +1,11 @@
 
 # Web Kuba Homes
 
+ HEAD
 Kubahomes es una plataforma web que proporciona información detallada para realizar reformas integrales del hogar, así como reformas específicas del baño, la cocina y locales comerciales.
+
+Kubahomes es una web que proporciona información detallada para realizar reformas integrales del hogar, así como reformas específicas del baño, la cocina y locales comerciales.
+ a3fc567dc6bbc611ed3a337621330d5b165cecad
 
 
 ## Tecnologías Utilizadas
@@ -48,4 +52,8 @@ Para más detalles, consulta el archivo [LICENSE](./LICENSE) en este repositorio
 
 2. Clona tu fork localmente si necesitas hacer cambios significativos.
 
+<<<<<<< HEAD
 3. Realiza tus cambios y abre un pull request en GitHub para que tus modificaciones sean consideradas.
+=======
+3. Realiza tus cambios y abre un pull request en GitHub para que tus modificaciones sean consideradas.
+>>>>>>> a3fc567dc6bbc611ed3a337621330d5b165cecad
