@@ -424,28 +424,6 @@ footer {
     }
 }
 
-.bienvenida {
-    width: 800px;
-    font-size: 22px;
-    background-color: #ccc;
-    border-radius: 10px;
-    /* Borde redondeado */
-    padding: 30px;
-    /* Espacio interno al borde */
-    text-align: justify;
-    /* Texto justificado */
-    margin: 20px auto;
-    /* Centra horizontalmente y añade espacio superior/inferior */
-    opacity: 0;
-    transition: opacity 1s ease-out, transform 1s ease-out;
-}
-
-.bienvenida p {
-    text-align: justify;
-    /* Texto justificado */
-    align-items: center;
-}
-
 /*GALERIA DE IMAGENES */
 .slider-container {
     position: relative;
@@ -1578,54 +1556,8 @@ footer {
 
 /* SECCIÓN DE LAS TARJETAS */
 /* Colores principales */
-.main-green {
-    background-color: #79dd09;
-}
-
-.main-green-rgb-015 {
-    background-color: rgba(121, 221, 9, 0.1);
-}
-
-.main-yellow {
-    background-color: #bdbb49;
-}
-
-.main-yellow-rgb-015 {
-    background-color: rgba(189, 187, 73, 0.1);
-}
-
-.main-red {
-    background-color: #bd150b;
-}
-
-.main-red-rgb-015 {
-    background-color: rgba(189, 21, 11, 0.1);
-}
-
-.main-blue {
-    background-color: #0076bd;
-}
-
-.main-blue-rgb-015 {
-    background-color: rgba(0, 118, 189, 0.1);
-}
 
 /* Colores adicionales */
-.main-purple {
-    background-color: #800080;
-}
-
-.main-purple-rgb-015 {
-    background-color: rgba(128, 0, 128, 0.1);
-}
-
-.main-teal {
-    background-color: #008080;
-}
-
-.main-teal-rgb-015 {
-    background-color: rgba(0, 128, 128, 0.1);
-}
 
 /* Estilo general */
 .light {
@@ -1692,10 +1624,6 @@ a:hover {
     line-height: 1.2;
 }
 
-.postcard .small {
-    font-size: 80%;
-}
-
 .postcard__img {
     width: 100%;
     height: auto;
@@ -1712,10 +1640,6 @@ a:hover {
     height: auto;
     max-height: 100%;
     object-fit: cover;
-}
-
-.postcard__img_link {
-    display: contents;
 }
 
 .postcard__bar {
